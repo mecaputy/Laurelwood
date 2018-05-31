@@ -1,3 +1,6 @@
+body {
+    background-color: #dcedc8;
+}
 .nav-wrapper {
     font-family: 'Permanent Marker', cursive;
 }
@@ -6,6 +9,20 @@
     font-family: 'Permanent Marker', cursive;
 }
 .parallax { 
+    /* The image used */
+    background-image: url("/Users/martinacaputy/apps/Laurelwood/assets/images/354.jpeg");
+
+    /* Set a specific height */
+    height: 500px; 
+    
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-2 { 
     /* The image used */
     background-image: url("/Users/martinacaputy/apps/Laurelwood/assets/images/IMG_6656.jpeg");
 
@@ -24,4 +41,37 @@
     font-family: 'Permanent Marker', cursive;
     font-size-adjust: inherit;
 }
+.contact-us {
+    color: #33691e;
+    background-color: white;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding: 10px;
+}
+.animals {
+    color: #33691e;
+    background-color: white;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding: 10px;
+}
+.book-stay {
+    
+    background-color: white;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+.stay-title {
+    color: #33691e;
+}
+
+#stay {
+    text-align: center;
+    /* font-family:  */
+}
+
+    
+
 
