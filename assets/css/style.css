@@ -9,7 +9,7 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 .parallax { 
-    background-image: url("./assets/images/354.jpeg");
+    background-image: url("../images/354.jpeg");
 
     height: 500px; 
     
@@ -20,7 +20,7 @@ body {
 }
 .parallax-2 { 
     /* The image used */
-    background-image: url("./assets/images/IMG_6656.jpeg");
+    background-image: url("../images/IMG_6656.jpeg");
 
     /* Set a specific height */
     height: 500px; 
