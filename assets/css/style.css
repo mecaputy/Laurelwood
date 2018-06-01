@@ -20,7 +20,7 @@ body {
 }
 .parallax-2 { 
     /* The image used */
-    background-image: url("../images/squad.JPG");
+    background-image: url("../images/squad.jpeg");
 
     /* Set a specific height */
     height: 500px; 
@@ -34,7 +34,7 @@ body {
 }
 .parallax-3 { 
     /* The image used */
-    background-image: url("../images/bed2.JPG");
+    background-image: url("../images/bed2.jpeg");
 
     /* Set a specific height */
     height: 500px; 
@@ -48,7 +48,7 @@ body {
 }
 .parallax-4 { 
     /* The image used */
-    background-image: url("../images/Q&W.JPG");
+    background-image: url("../images/Q&W.jpeg");
 
     /* Set a specific height */
     height: 500px; 
