@@ -9,7 +9,7 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 .parallax { 
-    background-image: url("../images/egg.png");
+    background-image: url("../images/baby-chicks2.png");
 
     height: 700px; 
     
@@ -35,6 +35,20 @@ body {
 .parallax-3 { 
     /* The image used */
     background-image: url("../images/bed.png");
+
+    /* Set a specific height */
+    height: 500px; 
+    
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-3 { 
+    /* The image used */
+    background-image: url("../images/IMG_6656.jpeg");
 
     /* Set a specific height */
     height: 500px; 
